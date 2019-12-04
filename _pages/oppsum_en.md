@@ -1,4 +1,7 @@
-# Teaching philosophy
+---
+title: Teaching philosophy
+permalink: /philosophy/
+---
 
 ## Background
 When I teach, I am a tool for learning for the students. My task is to enable, enhance, and augment the process of knowledge acquisition for the students.

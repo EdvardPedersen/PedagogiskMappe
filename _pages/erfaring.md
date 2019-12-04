@@ -1,4 +1,7 @@
-# Undervisnings-CV
+---
+title: Undervisningserfaring
+permalink: /erfaring/
+---
 
 | År | Kurs | Rolle|
 |----|------|------|
