@@ -41,7 +41,7 @@ plugins:
 author:
   name   : "Edvard Pedersen"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Førstelektor ved UiT - Norges Arktiske Universitet."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
