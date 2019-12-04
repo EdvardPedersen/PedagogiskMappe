@@ -63,7 +63,7 @@ defaults:
       layout: single
       author_profile: true
   - scope:
-      path: "_pages/utviklingsprosjekt.md"
+      path: "/prosjekt/"
       type: pages
     values:
       layout: single
