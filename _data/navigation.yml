@@ -1,7 +1,9 @@
 main:
-  - title: "Pedagogisk utviklingsprosjekt"
+  - title: "Utviklingsprosjekt"
     url: /prosjekt/
-  - title: "Hvem er jeg som underviser"
+  - title: "Undervisningsfilosofi"
     url: /philosophy/
   - title: "Undervisningserfaring"
     url: /erfaring/
+  - title: "Kollegaveiledning"
+    url: /kollega/
