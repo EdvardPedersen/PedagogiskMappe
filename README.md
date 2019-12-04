@@ -1,1 +1,5 @@
-This page is for documenting my teaching stuff.
+# Utviklingsprosjekt
+
+# Kollegaveiledning
+
+# Oppsummerende tekst
