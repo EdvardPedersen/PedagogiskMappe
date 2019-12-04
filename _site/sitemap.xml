@@ -13,6 +13,9 @@
 <loc>/tags/</loc>
 </url>
 <url>
+<loc>/prosjekt/</loc>
+</url>
+<url>
 <loc>/posts/</loc>
 </url>
 <url>
@@ -20,8 +23,5 @@
 </url>
 <url>
 <loc>/_pages/oppsum_en/</loc>
-</url>
-<url>
-<loc>/_pages/utviklingsprosjekt/</loc>
 </url>
 </urlset>

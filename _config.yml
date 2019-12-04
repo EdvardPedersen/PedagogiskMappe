@@ -10,7 +10,7 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
-permalink: /:categories/:title/:prosjekt/
+permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -62,6 +62,12 @@ defaults:
     values:
       layout: single
       author_profile: true
+  - scope:
+      path: "_pages/utviklingsprosjekt.md"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 category_archive:
   type: liquid
@@ -69,6 +75,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-prosjekt_archive:
-  type: liquid
-  path: /prosjekt/

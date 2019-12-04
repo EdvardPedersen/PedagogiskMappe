@@ -1,3 +1,9 @@
+---
+layout: default
+title: Studentpanel for undervisningsutvikling
+permalink: /prosjekt/
+---
+
 # Studentpanel for undervisningsutvikling
 
 Som underviser kan det være vanskelig å få konkret tilbakemelding
