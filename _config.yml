@@ -1,3 +1,5 @@
-_theme: jekyll-theme-leap-day
+remote_theme: "mmistakes/minimal-mistakes@4.17.2"
 title: Teaching
 description: My teaching philosophy etc.
+
+plugins: jekyll-include-cache
