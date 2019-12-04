@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Studentpanel for undervisningsutvikling
 permalink: /prosjekt/
 ---
