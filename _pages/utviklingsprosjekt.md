@@ -3,8 +3,6 @@ title: Studentpanel for undervisningsutvikling
 permalink: /prosjekt/
 ---
 
-# Studentpanel for undervisningsutvikling
-
 Som underviser kan det være vanskelig å få konkret tilbakemelding
 på mangler eller uklarheter i undervisningen. Midt- og sluttevalueringer
 kan gi en pekepinn på større mangler og svakheter ved undervisningen, men

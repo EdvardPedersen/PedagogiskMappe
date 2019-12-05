@@ -3,5 +3,23 @@ title: Min pedagogiske mappe
 permalink: /
 ---
 
----
-Hei!
+Intensjon med mappen
+
+Presentasjon av meg selv
+
+Oversikt over min erfaring som undervisning
+
+Pedagogisk basisrepertoar
+
+Avslutning
+
+Vurdering
+
+Lenker:
+
+Universitetspedagogisk grunnsyn
+
+Utviklingsprosjekt
+
+Kollegaveiledning
+
