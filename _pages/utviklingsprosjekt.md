@@ -19,3 +19,21 @@ Panelet består av 4-6 studenter, samt underviser(e) i faget. I etterkant av
 forelesningen så møtes panelet på ett grupperom for å ha en kort (5-15 minutter)
 diskusjon om hva som fungerer og ikke fungerer i undervisningsopplegget som har
 blitt gjennomført i forelesning.
+
+# Teori
+
+Noe om teori
+
+# Metode
+
+På semesterets første forelesning rekrutteres frivillige studenter som vil delta på å gi tilbakemelding på kursgjennomføringen.
+
+Avtale fast møtetidspunkt.
+
+Opprette Discord-server
+
+Gjennomføre møter.
+
+Notere
+
+# Resultat
