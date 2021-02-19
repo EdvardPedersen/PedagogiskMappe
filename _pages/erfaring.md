@@ -38,12 +38,14 @@ permalink: /erfaring/
 | 2021 | Utarbeidet plan for omlegging av emneevalueringer IFI |
 
 # Veiledning
+
 | År | Navn | Grad | Rolle |
 | 2020 | Sondre Haldar-Iversen | Masteroppgave (60 stp) | Hovedveileder |
 | 2020 | Alvaro Martinez Fernandez | Masteroppgave (60 stp) | Hovedveileder |
 | 2020 | Sidra Ali Taha | Prosjektoppgave | Hovedveileder |
 
 # Sensur
+
 | År | Institusjon | Kurs | Rolle |
 | 2020 | Høgskulen på Vestlandet | DAT108 | Ekstern sensor 150 kandidater |
 | 2020 | UiT - Norges Arktiske Universitet | INF-1049 | Intern sensor |
