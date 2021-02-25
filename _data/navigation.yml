@@ -7,3 +7,5 @@ main:
     url: /erfaring/
   - title: "Kollegaveiledning"
     url: /kollega/
+  - title: "Oppsummering av prosjekter"
+    url: /prosjekter/
