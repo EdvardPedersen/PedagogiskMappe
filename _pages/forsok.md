@@ -1,6 +1,6 @@
 ---
 title: Prosjekter i undervisningsutvikling
-permalink: /undervisningsprosjekter/
+permalink: /prosjekter/
 ---
 
 # Streaming av koding på ettermiddag
