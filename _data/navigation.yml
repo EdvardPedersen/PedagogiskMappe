@@ -1,11 +1,11 @@
 main:
   - title: "Utviklingsprosjekt"
     url: /prosjekt/
-  - title: "Undervisningsfilosofi"
+  - title: "Filosofi"
     url: /philosophy/
-  - title: "Undervisningserfaring"
+  - title: "Erfaring"
     url: /erfaring/
   - title: "Kollegaveiledning"
     url: /kollega/
-  - title: "Oppsummering av prosjekter"
+  - title: "Kort om prosjekter"
     url: /prosjekter/
