@@ -61,14 +61,6 @@ permalink: /erfaring/
 | 2021-02-24 | Air:bit - Skolebesøk (digitalt) - Polarsirkelen VGS | Organisator og underviser |
 | 2021-03-02 | Air:bit - Skolebesøk (digitalt) - Senja VGS oppfølging | Organisator og underviser |
 
-
- 
-
-# Annet
-
-| År | Aktivitet | Rolle |
-| 2019 | Mentorordning ved IFI | Organisator |
-
 # Utdanningsledelse
 
 | År | Rolle |
@@ -104,3 +96,13 @@ permalink: /erfaring/
 | 2019 | UiT - Norges Arktiske Universitet | INF-1400 | Intern sensor |
 | 2019 | UiO | IN1900 | Ekstern sensor |
 | 2018 | UiT - Norges Arktiske Universitet | INF-1049 | Intern sensor |
+
+# Annet
+
+| År | Aktivitet | Rolle |
+| 2019 | Mentorordning ved IFI | Organisator |
+
+# Publikasjoner
+
+| År | Type | Tittel |
+| 2021 | Konferansebidrag | [Experiences with informal student panel for continuous formative course evaluation](https://doi.org/10.5324/njsteme.v5i1.3928)
