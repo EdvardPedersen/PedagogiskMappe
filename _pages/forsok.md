@@ -3,13 +3,16 @@ title: Prosjekter i undervisningsutvikling
 permalink: /prosjekter/
 ---
 
+På denne siden gir jeg en veldig kort oppsummering av forskjellige utviklingsprosjekter
+jeg har gjennomført for å bedre undervisningen min.
+
 # Streaming av koding på ettermiddag
 
 Periode: V19, H19, V20
 
 Mål: Eksponere studenter for "ekte" koding.
 
-Erfaring: Få deltagere.
+Erfaring: En del aktivitet i starten av semesteret, men få deltagere senere.
 
 Resultat: Avsluttet uten stor suksess.
 
@@ -20,9 +23,9 @@ Periode: V21
 
 Mål: Eksponere studenter for andre sin kode
 
-Erfaring: Pågående
+Erfaring: Tidlige tilbakemelding lovende, men noe usikkerhet og forskjell i gjennomføring mellom grupper.
 
-Resultat: Avventer avslutning.
+Resultat: Lovende, men krever mer forarbeid.
 
 
 # Bruk av Discord som verktøy for digitale forelesninger
@@ -31,9 +34,9 @@ Periode: V20, H20, V21
 
 Mål: Gi studentene en plattform for diskusjon og gruppearbeid i digitale forelesninger som ligger nærmere mulighetene fysisk.
 
-Erfaring: 
+Erfaring: Positiv tilbakemelding ift. å bruke "breakout rooms" i Zoom. Ikke alle som er i forelesningen blir med. Mer eller mindre alle som blir med deltar aktivt.
 
-Resultat:
+Resultat: Positivt, fungerer bedre enn automatiske grupper fra "breakout rooms".
 
 # Bruk av Twitch som platform for strømming av forelesninger
 
