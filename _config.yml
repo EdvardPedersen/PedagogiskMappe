@@ -46,12 +46,24 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/edvardpedersen"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/edvard-pedersen"
+    - label: "UiT"
+      icon: "/assets/images/uit_logo.png"
+      url: "https://uit.no/ansatte/person?p_document_id=588234"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/edvardpedersen"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/edvard-pedersen"
+    - label: "UiT"
+      icon: "/assets/images/uit_logo.png"
+      url: "https://uit.no/ansatte/person?p_document_id=588234"
 
 defaults:
   # _pages
