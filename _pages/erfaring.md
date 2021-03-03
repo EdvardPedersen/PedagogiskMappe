@@ -21,9 +21,53 @@ permalink: /erfaring/
 # Seminarer
 
 | År | Seminar | Rolle |
+| 2019 | Informasjonsmøte masterstudenter | Foredragsholder |
 | 2019 | Gruppelærerdagen | Organisator |
 | 2020 | Gruppelærerdagen | Organisator og foreleser |
 | 2018-2021 | Skolelaben | Organisator og seminarleder |
+
+# Skolelab-aktivitet
+
+| År | Aktivitet | Rolle |
+| 2019-01-23 | Air:bit - Skolebesøk - Meløy | Seminarleder |
+| 2019-01-29 | Air:bit - Skolebesøk - Alta & Narvik | Seminarleder |
+| 2019-02-11 | Air:bit - Skolebesøk - Kongsbakken | Seminarleder |
+| 2019-02-13 | Air:bit - Skolebesøk - Polarsirkelen & Tromsdalen | Seminarleder |
+| 2019-02-21 | Air:bit - Skolebesøk - Senja | Seminarleder |
+| 2019-06-11 | Arduino-programmering - Skolebesøk - Tromsdalen VGS | Organisator og underviser |
+| 2019-08-16 | Lærerkurs programmering | Underviser |
+| 2019-09-16 | Utforsk UiT | Underviser |
+| 2019-09-24 | GirlTech | Organisator |
+| 2019-10-15 | Scratch-programmering - Skolebesøk | Organisator og underviser |
+| 2019-10-16 | Åpen dag | Organisator |
+| 2019-10-30 (2 dager) | Lærerkurs Air:bit | Organisator og underviser |
+| 2019-11-19 (2 dager) | Lærerkurs programmering | Underviser |
+| 2019-12-12 | Girl day in Tech | Organisator |
+| 2019-12-19 | Spill-programmering Skolebesøk | Organisator og underviser |
+| 2020-01-07 | Arduino-programmering - Skolebesøk - Tromsdalen VGS | Organisator og underviser |
+| 2020-01-28 | Air:bit - Skolebesøk - Alta VGS | Seminarleder |
+| 2020-01-29 | Air:bit - Skolebesøk - Narvik VGS | Seminarleder |
+| 2020-02-05 | Air:bit - Skolebesøk - Bodø VGS | Seminarleder |
+| 2020-02-12 | GirlTech | Organisator |
+| 2020-02-20 | Air:bit - Skolebesøk - Tromsdalen VGS | Seminarleder |
+| 2020-02-27 | Lærerkurs programmering | Underviser |
+| 2020-03-31 | Lærerkurs programmering | Underviser |
+| 2020-10-14 | Skolebesøk - Programmering - Alta VGS | Underviser |
+| 2020-10-15 | Lærerkurs programmering - Alta VGS | Underviser |
+| 2020-11-12 | Lærerkurs Air:bit | Organisator og underviser |
+| 2021-01-13 | Lærerkurs Air:bit del 2 | Organisator og underviser |
+| 2021-02-16 | Air:bit - Skolebesøk (digitalt) - Senja VGS | Organisator og underviser |
+| 2021-02-22 | Air:bit - Skolebesøk (digitalt) - Narvik VGS | Organisator og underviser |
+| 2021-02-24 | Air:bit - Skolebesøk (digitalt) - Polarsirkelen VGS | Organisator og underviser |
+| 2021-03-02 | Air:bit - Skolebesøk (digitalt) - Senja VGS oppfølging | Organisator og underviser |
+
+
+ 
+
+# Annet
+
+| År | Aktivitet | Rolle |
+| 2019 | Mentorordning ved IFI | Organisator |
 
 # Utdanningsledelse
 
@@ -59,3 +103,4 @@ permalink: /erfaring/
 | 2019 | UiT - Norges Arktiske Universitet | INF-1049 | Intern sensor |
 | 2019 | UiT - Norges Arktiske Universitet | INF-1400 | Intern sensor |
 | 2019 | UiO | IN1900 | Ekstern sensor |
+| 2018 | UiT - Norges Arktiske Universitet | INF-1049 | Intern sensor |
