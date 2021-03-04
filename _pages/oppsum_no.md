@@ -1,9 +1,7 @@
 ---
-title: Min konstruktuvistiske læringsrefleksjon
+title: Min undervisningsfilosofi
 permalink: /philosophy/
 ---
-
-# Min undervisningsfilosofi
 
 Min undervisning baserer seg på en konstruktivistisk[^fn1] tilnærming til læring. Det betyr at jeg tror at det beste læringsutbyttet kommer når undervisningen er lagt opp slik at undervisningen bygger på eksisterende kunnskap, gjennom å utfordre den, og så vurdere verktøy for å takle denne utfordringen sammen med studentene.
 

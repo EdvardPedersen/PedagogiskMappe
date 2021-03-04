@@ -3,6 +3,8 @@ title: Undervisningserfaring
 permalink: /erfaring/
 ---
 
+Her lister jeg opp de mest sentrale delene av min undervisningserfaring.
+
 # Kurs
 
 | År | Kurs | Rolle|

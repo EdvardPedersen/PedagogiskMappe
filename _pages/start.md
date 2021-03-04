@@ -1,9 +1,7 @@
 ---
-title: Min pedagogiske mappe
+title: Introduksjon
 permalink: /
 ---
-
-# Innledning
 
 Dette er min pedagogiske mappe, hvor jeg presenterer informasjon om min undervisningsaktivitet og -utvikling.
 
