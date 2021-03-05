@@ -66,4 +66,4 @@ Mål: Få kontinuerlig tilbakemelding gjennom semesteret fra studenter
 
 Erfaring: Gir meget detaljert og god tilbakemelding. Krever ca. 1 time / uke innsats fra emneansvarlig.
 
-Resultat: Prosjektet er inkorporert i min undervisning. Se [rapport fra evaluering INF-1400 vår 2020](/inf-1400-2020/) og [rapport fra evaluerng INF-1049 høst 2020](/inf-1400-2020/).
+Resultat: Prosjektet er inkorporert i min undervisning. Se [rapport fra evaluering INF-1400 vår 2020](/PedagogiskMappe/inf-1400-2020/) og [rapport fra evaluerng INF-1049 høst 2020](/PedagogiskMappe/inf-1400-2020/).
