@@ -26,7 +26,9 @@ Her lister jeg opp de mest sentrale delene av min undervisningserfaring.
 | 2019 | Informasjonsmøte masterstudenter | Foredragsholder |
 | 2019 | Gruppelærerdagen | Organisator |
 | 2020 | Gruppelærerdagen | Organisator og foreleser |
+| 2021 | Gruppelærerdagen | Foreleser |
 | 2018-2021 | Skolelaben | Organisator og seminarleder |
+| 2021 | TD-Talks | Foredragsholder |
 
 # Skolelab-aktivitet
 
