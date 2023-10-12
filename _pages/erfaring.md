@@ -82,7 +82,11 @@ Her lister jeg opp de mest sentrale delene av min undervisningserfaring.
 | År | Navn | Grad | Rolle |
 | 2020 | Sondre Haldar-Iversen | Masteroppgave (60 stp) | Hovedveileder |
 | 2020 | Alvaro Martinez Fernandez | Masteroppgave (60 stp) | Hovedveileder |
-| 2020 | Sidra Ali Taha | Prosjektoppgave | Hovedveileder |
+| 2021 | Sidra Ali Taha | Prosjektoppgave | Hovedveileder |
+| 2021 | Sidra Ali Taha | Masteroppgave (30 stp) | Hovedveileder |
+| 2021 | Anton Garri Fagerbakk | Masteroppgave (60 stp) | Hovedveileder |
+| 2021 | Mariel Ellingsen | Prosjektoppgave | Hovedveileder |
+| 2022 | Mariel Ellingsen | Masteroppgave (30 stp) | Hovedveileder |
 
 # Sensur
 
