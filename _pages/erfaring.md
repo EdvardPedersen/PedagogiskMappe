@@ -19,6 +19,13 @@ Her lister jeg opp de mest sentrale delene av min undervisningserfaring.
 | 2020 | INF-1400 | Foreleser |
 | 2020 | INF-1049 | Emneansvarlig og foreleser |
 | 2020 | INF-6000 | Foreleser |
+| 2021 | INF-1400 | Foreleser |
+| 2021 | INF-1100 | Emneansvarlig og foreleser |
+| 2022 | INF-1101 | Foreleser |
+| 2022 | INF-1100 | Emneansvarlig og foreleser |
+| 2023 | INF-1101 | Foreleser |
+| 2023 | INF-1100 | Emneansvarlig og foreleser |
+| 2025 | INF-1400 | Foreleser |
 
 # Seminarer
 
@@ -68,14 +75,18 @@ Her lister jeg opp de mest sentrale delene av min undervisningserfaring.
 # Utdanningsledelse
 
 | År | Rolle |
-| 2020 | Undervisningsansvarlig IFI |
-| 2020 | Programstyreleder IFI |
+| 2020-2023 | Undervisningsansvarlig IFI |
+| 2020-2023 | Programstyreleder IFI |
+| 2020-2023 | Nestleder IFI |
+| 2025- | Undervisningsansvarlig IFI |
+| 2025- | Programstyreleder IFI |
 
 # Utvikling av undervisning
 
 | År | Aktivitet |
 | 2020 | Omlegging av kurs INF-1049 |
 | 2021 | Utarbeidet plan for omlegging av emneevalueringer IFI |
+| 2023 | Omlegging eksamens- og øvingsopplegg INF-1100 |
 
 # Veiledning
 
@@ -87,30 +98,11 @@ Her lister jeg opp de mest sentrale delene av min undervisningserfaring.
 | 2021 | Anton Garri Fagerbakk | Masteroppgave (60 stp) | Hovedveileder |
 | 2021 | Mariel Ellingsen | Prosjektoppgave | Hovedveileder |
 | 2022 | Mariel Ellingsen | Masteroppgave (30 stp) | Hovedveileder |
-
-# Sensur
-
-| År | Institusjon | Kurs | Rolle |
-| 2020 | Høgskulen på Vestlandet | DAT108 | Ekstern sensor 150 kandidater |
-| 2020 | UiT - Norges Arktiske Universitet | INF-1049 | Intern sensor |
-| 2020 | UiT - Norges Arktiske Universitet | INF-1400 | Intern sensor |
-| 2020 | UiT - Norges Arktiske Universitet | Masteroppgave 30 stp | Intern sensor |
-| 2020 | UiO | IN1000 | Ekstern klagesensor |
-| 2020 | Nord universitet | ENT5004 | Ekstern klagesensor |
-| 2020 | UiT - Norges Arktiske Universitet | INF-1101 | Intern klagesensor |
-| 2020 | UiT - Norges Arktiske Universitet | INF-2202 | Intern klagesensor |
-| 2020 | UiA | ORG453 | Ekstern sensor |
-| 2019 | UiT - Norges Arktiske Universitet | INF-1049 | Intern sensor |
-| 2019 | UiT - Norges Arktiske Universitet | INF-1400 | Intern sensor |
-| 2019 | UiO | IN1900 | Ekstern sensor |
-| 2018 | UiT - Norges Arktiske Universitet | INF-1049 | Intern sensor |
+| 2023 | Anders Søreide | Masteroppgave (60 stp) | Hovedveileder |
+| 2023 | Muhammad Zahirul Islam | Masteroppgave (60 stp) | Hovedveileder |
 
 # Annet
 
 | År | Aktivitet | Rolle |
 | 2019 | Mentorordning ved IFI | Organisator |
 
-# Publikasjoner
-
-| År | Type | Tittel |
-| 2021 | Konferansebidrag | [Experiences with informal student panel for continuous formative course evaluation](https://doi.org/10.5324/njsteme.v5i1.3928)
