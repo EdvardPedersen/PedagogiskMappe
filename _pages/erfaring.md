@@ -15,7 +15,6 @@ Her lister jeg opp de mest sentrale delene av min undervisningserfaring.
 | 2017 | INF-3201 | Foreleser |
 | 2019 | INF-1400 | Foreleser |
 | 2019 | INF-1049 | Emneansvarlig og foreleser |
-| 2019-2020 | INF-3990 | Hovedveileder for to masterstudenter |
 | 2020 | INF-1400 | Foreleser |
 | 2020 | INF-1049 | Emneansvarlig og foreleser |
 | 2020 | INF-6000 | Foreleser |
@@ -26,6 +25,14 @@ Her lister jeg opp de mest sentrale delene av min undervisningserfaring.
 | 2023 | INF-1101 | Foreleser |
 | 2023 | INF-1100 | Emneansvarlig og foreleser |
 | 2025 | INF-1400 | Foreleser |
+| 2025 | INF-0101 | Foreleser |
+| 2025 | INF-0103 | Foreleser |
+| 2025 | MIK-0003 | Emneskaper |
+
+# Relevant arbeidserfaring
+
+| År | Bedrift | Rolle |
+| 2016-2018 | Kongsberg Spacetec | Systems engineer |
 
 # Seminarer
 
@@ -87,6 +94,7 @@ Her lister jeg opp de mest sentrale delene av min undervisningserfaring.
 | 2020 | Omlegging av kurs INF-1049 |
 | 2021 | Utarbeidet plan for omlegging av emneevalueringer IFI |
 | 2023 | Omlegging eksamens- og øvingsopplegg INF-1100 |
+| 2025 | Utvikling av kurs INF-0101, INF-0103, og MIK-0003 |
 
 # Veiledning
 
@@ -100,6 +108,7 @@ Her lister jeg opp de mest sentrale delene av min undervisningserfaring.
 | 2022 | Mariel Ellingsen | Masteroppgave (30 stp) | Hovedveileder |
 | 2023 | Anders Søreide | Masteroppgave (60 stp) | Hovedveileder |
 | 2023 | Muhammad Zahirul Islam | Masteroppgave (60 stp) | Hovedveileder |
+| 2021- | Pavitra Chauhan | PhD | Hovedveileder |
 
 # Annet
 
